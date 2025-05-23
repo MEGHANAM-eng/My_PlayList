@@ -1,0 +1,123 @@
+body{
+    background-color:#22577A;
+    margin:0px;
+}
+.container{
+    text-align:center;
+    margin-top:10px;
+}
+
+.main{
+    background-color: #80ED99;
+    padding:10px;
+    color:black;
+}
+
+h1{
+    color:white;
+}
+
+h1,ul,li{
+    color:white;
+    display:inline;
+}
+
+ul{
+    margin-left: 73%;
+}
+
+ul,li{
+    gap:10px;
+}
+
+header{
+    text-align:center;
+    color:#C7F9CC;
+    margin-top:50px;
+    font-family: "Playfair Display SC", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.drum{
+    background-color: #80ED99;
+    height:220px;
+    width:220px;
+    margin:20px;
+    border-radius:10px;
+    justify-content: space-between;
+    border:10px solid #38A3A5;
+    }
+
+.button-text{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    border-radius: 3px;
+    color:black;
+    padding:5px;
+}
+
+span{
+    display: inline-block;
+    margin-top: 80%;
+    align-items: center;
+    background-color:#38A3A5;
+}
+
+.A {
+    background-image: url("image/akkam.jpg");
+    background-color: #F2F2F2;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.I {
+    background-image: url("image/irupadhu.jpg");
+    background-color: #F2F2F2;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.P {
+    background-image: url("image/priyasakhi.jpg");
+    background-color: #F2F2F2;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.U {
+    background-image: url("image/unnai.jpg");
+    background-color: #F2F2F2;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.M {
+    background-image: url("image/unper.jpg");
+    background-color: #F2F2F2;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.T {
+    background-image: url("image/yaar.jpg");
+    background-color: #F2F2F2;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.Y {
+    background-image: url("image/yenadi.jpg");
+    background-color: #F2F2F2;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+      
